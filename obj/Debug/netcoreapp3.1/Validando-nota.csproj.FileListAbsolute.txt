@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\bin\Debug\netcoreapp3.1\Validando-nota.exe
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\bin\Debug\netcoreapp3.1\Validando-nota.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\bin\Debug\netcoreapp3.1\Validando-nota.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\bin\Debug\netcoreapp3.1\Validando-nota.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\bin\Debug\netcoreapp3.1\Validando-nota.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\bin\Debug\netcoreapp3.1\Validando-nota.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\obj\Debug\netcoreapp3.1\Validando-nota.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\obj\Debug\netcoreapp3.1\Validando-nota.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\obj\Debug\netcoreapp3.1\Validando-nota.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\obj\Debug\netcoreapp3.1\Validando-nota.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\obj\Debug\netcoreapp3.1\Validando-nota.dll
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\obj\Debug\netcoreapp3.1\Validando-nota.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\Validando-nota\obj\Debug\netcoreapp3.1\Validando-nota.genruntimeconfig.cache

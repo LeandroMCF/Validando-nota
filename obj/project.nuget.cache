@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ryYwQjwJ6HxFbXh8Cwg4v6sT5deA/PwtoanYL+QSghUvH7DOgAmi8ULLxlA2WWbLfDFKq3yxEE36jF+bcDr8bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\Validando-nota\\Validando-nota.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
